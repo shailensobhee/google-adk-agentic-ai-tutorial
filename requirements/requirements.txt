@@ -1,3 +1,6 @@
+crewai
+langchain_ollama 
+langgraph
 google-adk>=0.3.0
 gradio>=5.28.0
 httpx>=0.28.1
@@ -9,7 +12,6 @@ starlette>=0.46.2
 typing-extensions>=4.13.2
 uvicorn>=0.34.0
 litellm==1.74.3
-ollama==0.9.6
 openai==1.99.1
 yfinance
 dotenv
