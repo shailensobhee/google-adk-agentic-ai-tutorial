@@ -1,6 +1,7 @@
 #Custom
 LICENSE
 .ipynb_checkpoints/
+vllm/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
