@@ -14,7 +14,7 @@ Shailen Sobhee, Priya Savithri Baskaran, Jereshea John Mary, Yogesh Muthu Vidya
 2. Select `Select Another Kernel...` from the dropdown menu.
 3. Navigate to `Python Environments` and choose the appropriate Conda environment `(amd_workshop)`.
 
-   ![alt text](image_kernel.png)
+   ![alt text](assets/output/image_kernel.png)
 
 ## Ports Used (Optional):
 
