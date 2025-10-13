@@ -15,3 +15,4 @@ litellm==1.74.3
 openai==1.99.1
 yfinance
 dotenv
+numpy==2.2.6
