@@ -9,7 +9,7 @@ OLLAMA_MODEL="llama3.1"
 
 # 1. Argument Handling (HF_TOKEN)
 if [ -z "$1" ]; then
-    echo "Error: High-Frequency Token (HF_TOKEN) is required as the first argument."
+    echo "Error: HuggingFace Token (HF_TOKEN) is required as the first argument."
     echo "Usage: $0 <YOUR_HF_TOKEN>"
     exit 1
 fi
