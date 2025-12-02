@@ -17,3 +17,8 @@ litellm==1.74.9
 openai==1.99.1
 dotenv
 numpy==2.2.6
+torch==2.8.0
+torchaudio==2.8.0
+torchvision==0.23.0
+vllm==0.11.0
+transformers==4.57.3
