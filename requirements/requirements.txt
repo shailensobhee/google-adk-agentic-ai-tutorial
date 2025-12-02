@@ -17,7 +17,7 @@ litellm==1.74.9
 openai==1.99.1
 dotenv
 numpy==2.2.6
-torch==2.8.0
-torchaudio==2.8.0
-torchvision==0.23.0
-transformers==4.57.3
+transformers==4.53.3
+torch==2.7.1 --extra-index-url https://download.pytorch.org/whl/rocm6.3
+torchvision==0.22.1
+torchaudio==2.7.1
